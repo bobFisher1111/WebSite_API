@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "vercel-build": "export PATH=$PATH:/path/to/pg_config && npm run build"
+  }
+}
