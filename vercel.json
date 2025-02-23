@@ -14,5 +14,6 @@
   ],
   "env": {
     "APP_MODULE": "main:app"
-  }
+  },
+  "pythonVersion": "3.9"
 }
